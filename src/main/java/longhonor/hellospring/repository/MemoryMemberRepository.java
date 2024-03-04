@@ -1,6 +1,7 @@
 package longhonor.hellospring.repository;
 
 import longhonor.hellospring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
